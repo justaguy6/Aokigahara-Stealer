@@ -11,20 +11,35 @@
 
 ---
 
-## 🚀 Funcionalidades / Features
+✅ Funcionalidades / Features
 
-- ✅ Username & Hostname
-- ✅ IP Address & Country
-- ✅ Operating System Detection
-- ✅ Screen Viewer
-- ✅ Browser Data (cookies, passwords, keywords, cards)
-- ✅ Discord Token, 2FA, Badges
-- ✅ Startup Injection
-- ✅ Discord Builder Integration
-- ✅ FUD 0/72 detection (Fully Undetectable)
-- ✅ MSI Customization & Injection
+👤 Nome de Usuário do Computador / Computer Username  
+💻 Nome do Host do Computador / Computer Hostname  
+🛡️ Stealer FUD (0/72 detecções) / Stealer FUD (0/72 detections)  
+🌐 Endereço IP / IP Address  
+🧠 Sistema Operacional / Operating System  
+🖥️ Visualizador de Tela / Screen Viewer  
+🗺️ País / Country  
+🌍 Navegadores / Palavras-chave / Browsers / Keywords  
+🍪 Cookies / Cookies  
+🔐 Senhas / Passwords  
+💳 Cartões Salvos / Saved Cards
+📦 Extração de Todos os Dados / All Data Extraction  
+🧬 Injeção na Inicialização / Startup Injection  
+🛠️ Builder do Discord via bot
+🛡️ Bypass de Proteção de Cookies / Bypass Cookie Protection  
+⚙️ Personalização de MSI / Customize MSI  
 
----
+💬 Funcionalidades do Discord / Discord Features
+
+🔑 Token do Discord / Discord Token  
+💸 Informações de Pagamento / Billing Info  
+🔐 2FA (Autenticação de Dois Fatores) / 2FA (Two-Factor Authentication)  
+📅 Data de Criação da Conta / Account Creation Date  
+🎖️ Insígnias / Badges  
+📧 E-mail / Email  
+📞 Número de Telefone / Phone Number
+
 
 ## 📷 Imagens / Screenshots
 
@@ -33,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/assets/screenshot2.png" width="600"/>
+  <img src="https://github.com/justaguy6/Aokigahara-Stealer/blob/main/assets/prints.png?raw=true" width="600"/>
 </p>
 
 ---
