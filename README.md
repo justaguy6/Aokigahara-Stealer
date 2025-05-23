@@ -51,6 +51,14 @@
   <img src="https://github.com/justaguy6/Aokigahara-Stealer/blob/main/assets/prints.png?raw=true" width="600"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/justaguy6/Aokigahara-Stealer/blob/main/assets/Captura%20de%20tela%202025-05-23%20164458.png?raw=true" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/justaguy6/Aokigahara-Stealer/blob/main/assets/prints.png?raw=true" width="600"/>
+</p>
+
 ---
 
 ## 💬 Comunidade / Community
