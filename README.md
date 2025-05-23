@@ -29,7 +29,7 @@
 ## 📷 Imagens / Screenshots
 
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/assets/screenshot1.png" width="600"/>
+  <img src="https://github.com/justaguy6/Aokigahara-Stealer/blob/main/assets/Captura_de_tela_2025-05-23_143439.png?raw=true" width="600"/>
 </p>
 
 <p align="center">
