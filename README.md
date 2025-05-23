@@ -26,4 +26,6 @@ Badges
 Mail
 Phone
 
+Prints: https://github.com/justaguy6/Aokigahara-Stealer/blob/main/aa.png?raw=true
+
 get in: https://discord.gg/cc6svhsd74
