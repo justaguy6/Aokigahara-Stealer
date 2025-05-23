@@ -1,7 +1,7 @@
 # 🚨 Aokigahara Stealer
 
 <p align="center">
-  <img src="https://github.com/justaguy6/Aokigahara-Stealer/raw/main/assets/618b9228-5b97-4b51-8db9-34c19c5e6fc1.png" width="300" alt="Banner do projeto"/>
+  <img src="https://github.com/justaguy6/Aokigahara-Stealer/raw/main/assets/618b9228-5b97-4b51-8db9-34c19c5e6fc1.png" alt="Aokigahara Banner" width="100%"/>
 </p>
 
 ## 📌 Sobre / About
