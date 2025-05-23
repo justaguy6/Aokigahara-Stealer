@@ -1,5 +1,6 @@
-# Aokigahara-Stealer
+# Aokigahara Stealer
 
+Features: 
 Computer Username
 Computer Hostname
 Stealer fud 0/72
@@ -26,6 +27,6 @@ Badges
 Mail
 Phone
 
-Prints: https://github.com/justaguy6/Aokigahara-Stealer/blob/main/aa.png?raw=true
+[Detects](https://github.com/seu-usuario/seu-repositorio/raw/main/assets/imagem.png)
 
 get in: https://discord.gg/cc6svhsd74
