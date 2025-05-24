@@ -66,8 +66,8 @@
 🇧🇷 Junte-se à comunidade no Discord para suporte, atualizações e mais:  
 🇺🇸 Join the Discord community for support, updates, and more:
 
-👉 [Clique aqui para entrar no Discord](https://discord.gg/cc6svhsd74)  
-👉 [Click here to join Discord](https://discord.gg/cc6svhsd74)
+👉 [Clique aqui para entrar no Discord](https://discord.gg/ttMPJvnCkb)
+👉 [Click here to join Discord](https://discord.gg/ttMPJvnCkb)
 
 ---
 
